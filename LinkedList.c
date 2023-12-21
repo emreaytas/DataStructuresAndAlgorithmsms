@@ -114,7 +114,7 @@ void basa_ekle(int data)
 {
     if(Head==NULL)
     {
-      
+
         AA* newNode=(AA *)malloc(sizeof(AA));
         newNode->number=data;
         newNode->ptr=NULL;
@@ -264,6 +264,9 @@ while(true){
 return 0;
 
 }
+
+
+
 
 int menu(){
   int select;

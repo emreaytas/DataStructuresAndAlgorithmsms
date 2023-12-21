@@ -57,6 +57,8 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "files.associations": {
     "math.h": "c",
-    "conio.h": "c"
+    "conio.h": "c",
+    "stdbool.h": "c",
+    "string.h": "c"
   }
 }
